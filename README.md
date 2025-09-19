@@ -6,7 +6,7 @@ To analyze coffee shop sales data and deliver actionable insights that support m
 
 📌 Project Overview
 - Prepared BA documentation including Project Charter, BRD, FRD, Use Case, ERD, and Workflow diagrams to define business and functional requirements.
-- Collected, cleaned, and structured sales data using SQL for efficient querying and reporting.
+- Collected, cleaned, and structured sales data using Excel for efficient querying and reporting.
 - Analyzed customer behavior, product performance, and seasonal sales trends to uncover actionable insights.
 - Built an interactive Excel dashboard with KPIs, charts, and slicers to deliver real-time insights for decision-makers.
 - Supported marketing, inventory, and staffing strategies through data-driven recommendations.
