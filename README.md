@@ -4,7 +4,7 @@
 To analyze coffee shop sales data and deliver actionable insights that support marketing, inventory, and staffing strategies using structured documentation and real-time dashboards.
 
 
-** Role: ** Business Analyst | Data Analyst & Developer
+**Role:** Business Analyst | Data Analyst & Developer
 
 ### 📌 Project Overview
 - Prepared BA documentation including Project Charter, BRD, FRD, Use Case, ERD, and Workflow diagrams to define business and functional requirements.
